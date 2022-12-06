@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:https://zatpoker.dontkillmyapp.com/sitemap.xml
